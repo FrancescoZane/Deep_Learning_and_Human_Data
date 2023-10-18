@@ -8,24 +8,24 @@ Part I – Introduction (2 hours)
 
 Part II – Vector Quantization (18 hours)
 - Vector quantization (VQ):
---- Aims, quality metrics
---- Clustering 1: K-means, soft K-means, Expectation Maximization (EM)
---- Clustering 1: X-means, DBSCAN (density based clustering)
+  - Aims, quality metrics
+  - Clustering 1: K-means, soft K-means, Expectation Maximization (EM)
+  - Clustering 1: X-means, DBSCAN (density based clustering)
 - Unsupervised VQ algorithms:
---- Self-Organizing Maps (SOM), Gas Neural Networks (GNG): theory and algorithms
+  - Self-Organizing Maps (SOM), Gas Neural Networks (GNG): theory and algorithms
 - Application to quasi-periodic biometric signals (ECG):
--- Signal pre-processing, normalization, segmentation
---- Dictionary learning: concepts, architectures
---- Efficient representation of ECG signals: description of state-of-the-art algorithms
---- Unsupervised dictionary designs for ECG via GNG-based dictionaries
---- Final system design and numerical results
+  - Signal pre-processing, normalization, segmentation
+  - Dictionary learning: concepts, architectures
+  - Efficient representation of ECG signals: description of state-of-the-art algorithms
+  - Unsupervised dictionary designs for ECG via GNG-based dictionaries
+  - Final system design and numerical results
 
 Part III - Deep Neural Networks (16 hours)
 - Review: gradient descent and general concepts (supervised learning, overfitting, cost models, etc.)
 - Review: Feed Forward Neural Networks: models, training, back-propagation
 - Convolutional Neural Networks (CNN): structure, description of constituting blocks, training, batch normalization
 - Autoencoder architectures for unsupervised feature extraction
--- denoising autoencoders
+  - denoising autoencoders
 - Recurrent neural networks (RNN) for the analysis of temporal sequences. Example: natural language processing
 - Residual convolutional neural networks (ResNets)
 - Attention mechanisms for CNN (images) and RSS (temporal sequences). Training mechanisms and application examples (e.g., text translation models)
