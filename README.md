@@ -39,4 +39,5 @@ In the laboratory classes the students will go through a guided tour through the
 - Advanced mechanisms (implementation): batch normalization, residual networks (ResNets), autoencoders, inception layers
 
 
+
 Exam: development of a project and its report 
