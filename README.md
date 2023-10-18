@@ -1,6 +1,8 @@
 # Deep_Learning_and_Human_Data
 
-Course unit contents:	Part I – Introduction (2 hours)
+Course unit contents:
+
+Part I – Introduction (2 hours)
 - Intro: course outline, graduation rules, office hours, etc.
 - Applications: health, activity-aware services, security and emergency management, authentication systems, analyzing human dynamics, natural language processing
 
