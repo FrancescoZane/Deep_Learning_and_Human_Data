@@ -32,6 +32,7 @@ Part III - Deep Neural Networks (16 hours)
 - Transformer architectures: step-by-step explanation of the working principles and of the main constituting blocks, training methods, application examples and trends
 
 Part IV: Laboratory classes (12 hours)
+
 In the laboratory classes the students will go through a guided tour through the construction of Python code for neural networks, writing all the building blocks related to: the creation of the neural network structure and its training using several gradient descent-based algorithms. The students will be exposed to Python programming, including the use of the Keras and TensorFlow frameworks for the implementation and training of neural network structures. The software composing the different blocks of the presented neural network architectures will be pre-written and checked for correctness, so that the students, after attempting to implement their own version of it, will succeed to combine the various blocks and complete the assigned task. Upon connecting the blocks into the selected neural network architecture, the obtained neural network models will be trained using several gradient descent algorithms, and tested against selected and real datasets. The topics that will be covered are:
 
 - Introduction to Python programming
